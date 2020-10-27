@@ -1,0 +1,28 @@
+{
+    "teams": [
+        {
+            "id": "",
+            "name": "",
+            "dateCreated": ""
+
+
+        }
+    ],
+    "players": [
+        {
+            "firstName": "",
+            "lastName": "",
+            "Country": "",
+            "teamId": "",
+            "id": ""
+        }
+    ],
+    "teamScores": [
+        {
+            "id": "",
+            "teamId": "",
+            "teamScore": "",
+            "gameDate": ""
+        }
+    ]
+}
