@@ -15,3 +15,12 @@ export const TeamForm = () => {
   render()
 }
 
+eventHub.addEventListener("click", (eventObj) => {
+  if (eventObj.target.id === 
+    "saveTeam") {
+      const teamID = document.querySelector().value
+      const teamName = document.querySelector().value
+      const teamDateCreated = document.querySelector().value
+    }
+})
+
